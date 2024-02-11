@@ -1,4 +1,4 @@
-State,District,Crop,Year,Season,Area (Hectare),Production (Tonnes),Yield (Tonnes/Hectare)
+State,District,Crop,Year,Season,Area,Production,Yield
 Himachal Pradesh,BILASPUR,Arhar/Tur, 1998-99,Kharif     ,4,1,0.25
 Himachal Pradesh,BILASPUR,Arhar/Tur, 1999-00,Kharif     ,1,0,0
 Himachal Pradesh,BILASPUR,Arhar/Tur, 2000-01,Kharif     ,3,1,0.33
